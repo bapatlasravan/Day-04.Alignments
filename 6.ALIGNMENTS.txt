@@ -1,0 +1,12 @@
+<html>
+<title>Alignments</html>
+<body>
+<h1 align="center">Alignments<h1><hr>
+<h2>If you want to move your paragraph to the 
+center of the screen then beside the "h1" or "p"
+just give align="center", if you want the
+text use same syntax just replace the center with
+the "right" command.
+
+</body>
+</html>
